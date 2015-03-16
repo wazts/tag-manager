@@ -1,2 +1,2 @@
-# tagger
+# tag-manager
 Process raw tags
